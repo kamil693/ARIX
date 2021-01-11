@@ -1,0 +1,3 @@
+git remote dodaj pochodzenie https://github.com/kamil693/ARIX.git
+ git branch -M Poland
+git push -u origin Poland
